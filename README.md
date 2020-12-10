@@ -1,4 +1,11 @@
-### Hi there 👋
+Seasoned engineering manager with 8 years of work experience. I've led engineering teams of 12+ people at multiple organisations.
+
+Currently working as Engineering Manager @ Hello Chef.
+
+Past experience:
+- Paytm Insider (July 2019 - September 2020)
+- USTRAA (Happily Unmarried Marketing Pvt. Ltd.) (July 2015 - July 2019)
+- Iksula Services Pvt. Ltd. (Jan 2013 - June 2015)
 
 <!--
 **hiteshpachpor/hiteshpachpor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
