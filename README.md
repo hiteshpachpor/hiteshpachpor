@@ -1,4 +1,4 @@
-Seasoned engineering manager with 8 years of work experience. I've led engineering teams of 12+ people at multiple organisations.
+Seasoned engineering manager with 10 years of work experience. I've led engineering teams of 12+ people at multiple organisations.
 
 Currently working as Engineering Manager @ Hello Chef.
 
