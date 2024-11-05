@@ -1,8 +1,11 @@
-Seasoned engineering manager with 10 years of work experience. I've led engineering teams of 12+ people at multiple organisations.
+### Hello, my name is Hitesh Pachpor.
 
-Currently working as Engineering Manager @ Hello Chef.
+A little bit about me:
 
-Past experience:
+I have 12 years of experience in software development and 8 years leading diverse teams. I bring a proven track record in managing small to medium sized engineering teams, developing and maintaining reliable software systems, and delivering impactful products across multiple domains using agile methodologies. I am well versed with JavaScript, Node.js, MySQL, Amazon Web Services (AWS), DevOps and SRE practices, having also worked on PHP, Python, React.js, Vue.js, Postgres, MongoDB, Kubernetes, and other relevant technologies over the years.
+
+**Work Experience:**
+- Hello Chef (September 2020 - Current)
 - Paytm Insider (July 2019 - September 2020)
 - USTRAA (Happily Unmarried Marketing Pvt. Ltd.) (July 2015 - July 2019)
 - Iksula Services Pvt. Ltd. (Jan 2013 - June 2015)
